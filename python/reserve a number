@@ -1,0 +1,10 @@
+num= 12345
+reserved_num =0
+temp = num
+
+while temp >0:
+    digit = temp % 10
+    reserved_num= reserved_num * 10 + digit 
+    temp //= 10
+    print("Reserved number =", reserved_num)
+ 

@@ -1,0 +1,6 @@
+Ip=input("enter your num : ")
+Ip2=input("enter your num : ")
+Ip3=input("enter your num : ")
+Ip4=input("enter your num : ")
+print(f"your Ip is | {Ip}.{Ip2}.{Ip3}.{Ip4}")
+print("-"*30)
